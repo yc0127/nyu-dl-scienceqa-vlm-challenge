@@ -5,8 +5,7 @@ NYU Deep Learning Spring 2026 Kaggle Competition — Pixels to Predictions
 
 | Metric | Result |
 |--------|--------|
-| Test Accuracy | 0.6680 |
-| Best Public Score | 0.6680 |
+| Test Validation Rate | 0.6135 |
 | Training Samples | 3,109 |
 | LoRA Rank | 6 (DoRA) |
 | Trainable Params | 4,784,128 / 5,000,000 |
