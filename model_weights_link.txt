@@ -1,0 +1,9 @@
+Trained LoRA adapter weights for SmolVLM-500M-Instruct ScienceQA.
+
+Google Drive link: https://drive.google.com/drive/folders/1c-A9tfA3L27OAtgQpZ1psn9HqDlkh0NY?usp=drive_link
+
+Folder contains:
+- adapter_model.safetensors
+- adapter_config.json
+- tokenizer files
+- processor files
